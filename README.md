@@ -1,7 +1,7 @@
 # test_readme
 
 _hey this is italic_
-*hey this is bold*
+**hey this is bold**
 
 ## smaller heading
 
